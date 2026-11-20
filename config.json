@@ -1,0 +1,23 @@
+{
+  "language": "es",
+  "theme": "blue",
+  "hotkey": "p",
+  "fps_mode": "30",
+  "custom_fps": 10,
+  "resolution_mode": "1280x720 (HD)",
+  "custom_width": 1000,
+  "custom_height": 6000,
+  "quality": "low",
+  "monitor_index": 1,
+  "audio_backend": "wasapi",
+  "system_audio_enabled": true,
+  "system_audio_device": "Varios micrófonos (Realtek Audio)",
+  "system_volume": 150,
+  "mic_enabled": false,
+  "mic_device": "",
+  "mic_volume": 120,
+  "sound_effects": true,
+  "run_in_background": true,
+  "output_folder": "clips",
+  "use_qsv": false
+}
